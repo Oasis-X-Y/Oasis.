@@ -3,7 +3,7 @@
   - **Prompt1**：输入新闻，输出新闻观点和论证逻辑的梳理
   - **Prompt2**：输入新闻局部话题，剖析**逻辑链**及**潜在漏洞**
   - **Prompt3**：相关术语解释
-  - **Prompt4**：基于**论文研究方法笔记**的研究方向、研究问题提问
+  - **Prompt4**：结合**论文研究方法笔记**方法论及对新闻**质疑态度**下的研究方向、研究问题提问
   - **Prompt5**：基于**好的研究问题的特征**（局部笔记）的研究方向提问
   - **Prompt6**：基于“好的研究”问题特征的研究问题细化
   - **Prompt7**：基于“好问题”特征，并以**学术顶刊**为标杆挑选问题
@@ -41,7 +41,8 @@
 
 ---
 
-## **Prompt4**：基于**论文研究方法笔记**的研究方向、研究问题提问
+## **Prompt4**：结合**论文研究方法笔记**方法论及对新闻**质疑态度**下的研究方向、研究问题提问
+### **deepseek**：
 ![image](https://github.com/user-attachments/assets/15bcec26-288e-4012-953f-5f4d90282c8e)
 ![image](https://github.com/user-attachments/assets/62826cbf-1087-4060-b8e5-9a8b2632e11c)
 ![image](https://github.com/user-attachments/assets/f5ba2a6a-60ab-428f-90b4-31b8c4b3c510)
@@ -49,6 +50,19 @@
 ![image](https://github.com/user-attachments/assets/c4daaeb2-7432-467d-bded-b769a5da4f4b)
 ![image](https://github.com/user-attachments/assets/fbf75eb5-589a-44bf-9da0-ade616bec1ec)
 ![image](https://github.com/user-attachments/assets/6233e31f-a370-4d9b-9ca0-5c90bf8b9fa6)
+### Kimi:
+![image](https://github.com/user-attachments/assets/9b0bcd85-4dd4-4f4f-a9b6-96a7b3a238d1)
+![image](https://github.com/user-attachments/assets/7ece0271-2f4d-4ab3-9b10-081e0b8fef14)
+![image](https://github.com/user-attachments/assets/2d57d091-737f-45fc-9bd6-bb22dc14f44c)
+![image](https://github.com/user-attachments/assets/3eb07256-de84-4a39-ac0a-cc86a7c3af23)
+### 智谱清言：
+![image](https://github.com/user-attachments/assets/b9062103-e424-4661-bdb7-28a08032e9c8)
+![image](https://github.com/user-attachments/assets/e9b25ee5-4517-48e3-a0b1-48c05ff2ba50)
+![image](https://github.com/user-attachments/assets/73744efc-ce23-460e-8784-9b75d818c39e)
+![image](https://github.com/user-attachments/assets/35e0d877-2344-4658-a80c-d5995c66a505)
+![image](https://github.com/user-attachments/assets/4304792f-f90c-40f0-8e07-1b11902e6c56)
+![image](https://github.com/user-attachments/assets/e5762cf3-5c6f-4848-8014-1a4aee916859)
+
 
 ---
 
@@ -58,15 +72,28 @@
 ![image](https://github.com/user-attachments/assets/7f686968-b9d6-4e73-9530-d4c93452600f)
 ![image](https://github.com/user-attachments/assets/7be6f60b-eae6-4710-8b0c-e2d40c91116a)
 ![image](https://github.com/user-attachments/assets/12d5ec16-ac5c-4f19-a7eb-cec0006b45fd)
+![image](https://github.com/user-attachments/assets/50109570-2db4-42f6-aabc-529cd9601ce2)
 
 ---
 
 ## **Prompt6**：基于“好的研究”问题特征的研究问题细化
+### **deepseek**：
 ![image](https://github.com/user-attachments/assets/cdfcc74f-b877-4495-a716-f0809c2457f7)
 ![image](https://github.com/user-attachments/assets/c23449b0-eb19-4955-8c8c-d3816044ba56)
 ![image](https://github.com/user-attachments/assets/308b24fe-98f4-477e-ad99-d7b91d8977e8)
 ![image](https://github.com/user-attachments/assets/c7f3af86-f7b8-489e-a65f-08c228417f6d)
 ![image](https://github.com/user-attachments/assets/bbfe7124-4cd2-48e3-8879-b99dd618c37e)
+### 智谱清言：
+![image](https://github.com/user-attachments/assets/dc11c0b7-25ed-47dd-ad7a-5c139ceb5e00)
+![image](https://github.com/user-attachments/assets/a12e9fbf-7ebe-4490-bd68-dcb36e08122c)
+![image](https://github.com/user-attachments/assets/671844e3-8627-47b4-b760-179414c3a41e)
+![image](https://github.com/user-attachments/assets/c486c4d2-4f04-4ef1-83f1-ffc38e6c74bf)
+![image](https://github.com/user-attachments/assets/c4643d02-601c-4aa9-a21e-e3e6ed2f6206)
+
+![image](https://github.com/user-attachments/assets/7b1b8f06-6fe9-415c-8195-9f05d2f8fbb9)
+![image](https://github.com/user-attachments/assets/5e10e44c-e92e-476f-bde8-dbce991ca17f)
+![image](https://github.com/user-attachments/assets/d878e764-f4bf-46c4-b653-75e2f5538f42)
+
 
 ---
 
