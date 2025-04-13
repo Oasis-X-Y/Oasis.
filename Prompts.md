@@ -7,20 +7,21 @@
   - **Prompt5**：基于**好的研究问题的特征**（局部笔记）的研究方向提问
   - **Prompt6**：基于“好的研究”问题特征的研究问题细化
   - **Prompt7**：基于“好问题”特征，并以**学术顶刊**为标杆挑选问题
+
 ---
 
-**Prompt1**：输入新闻，输出新闻观点和论证逻辑的梳理
+## **Prompt1**：输入新闻，输出新闻观点和论证逻辑的梳理
 ![image](https://github.com/user-attachments/assets/180798da-c91b-4d3d-8109-2644222727e2)
-**注**：最后一段以上是新闻原文
+### **注**：最后一段以上是新闻原文
 ![image](https://github.com/user-attachments/assets/cda279ad-5971-4949-841c-6cdd6d862893)
 ![image](https://github.com/user-attachments/assets/1319cb29-31ed-46 c6-a546-21ccc12fcba4)
 ![image](https://github.com/user-attachments/assets/6775288c-dc7c-47f6-806c-1ee8a246ee8e)
 
 ---
 
-**Prompt2**：输入新闻局部话题，剖析**逻辑链**及**潜在漏洞**
+## **Prompt2**：输入新闻局部话题，剖析**逻辑链**及**潜在漏洞**
 ![image](https://github.com/user-attachments/assets/3e52a78e-b338-4368-93a3-541426280378)
-**注**：蓝色高亮句以上是新闻第一部分原文
+### **注**：蓝色高亮句以上是新闻第一部分原文
 ![image](https://github.com/user-attachments/assets/bf80d24f-e417-49e4-a45e-3287c0fb91bc)
 ![image](https://github.com/user-attachments/assets/1330bd61-2483-4b3f-9e85-795c252ac34e)
 ![image](https://github.com/user-attachments/assets/d46a9fcf-3ca0-405b-9761-5900a71e980b)
@@ -29,7 +30,7 @@
 
 ---
 
-**Prompt3**：相关术语解释
+## **Prompt3**：相关术语解释
 ![image](https://github.com/user-attachments/assets/1cf76079-8f2d-4c62-a00a-866843707f6b)
 ![image](https://github.com/user-attachments/assets/03d6ba6a-f20f-4ffa-b90e-c2d15aff27b5)
 ![image](https://github.com/user-attachments/assets/6ad0c1c8-f929-4b78-82b5-2163e87adf2a)
@@ -40,7 +41,7 @@
 
 ---
 
-**Prompt4**：基于**论文研究方法笔记**的研究方向、研究问题提问
+## **Prompt4**：基于**论文研究方法笔记**的研究方向、研究问题提问
 ![image](https://github.com/user-attachments/assets/15bcec26-288e-4012-953f-5f4d90282c8e)
 ![image](https://github.com/user-attachments/assets/62826cbf-1087-4060-b8e5-9a8b2632e11c)
 ![image](https://github.com/user-attachments/assets/f5ba2a6a-60ab-428f-90b4-31b8c4b3c510)
@@ -51,7 +52,7 @@
 
 ---
 
-**Prompt5**：基于**好的研究问题的特征**（局部笔记）的研究方向提问
+## **Prompt5**：基于**好的研究问题的特征**（局部笔记）的研究方向提问
 ![image](https://github.com/user-attachments/assets/25020685-34ec-4348-81b5-cbc0c04bf22d)
 ![image](https://github.com/user-attachments/assets/4b590661-3b2a-4685-8b38-a4f984aa3939)
 ![image](https://github.com/user-attachments/assets/7f686968-b9d6-4e73-9530-d4c93452600f)
@@ -60,7 +61,7 @@
 
 ---
 
-**Prompt6**：基于“好的研究”问题特征的研究问题细化
+## **Prompt6**：基于“好的研究”问题特征的研究问题细化
 ![image](https://github.com/user-attachments/assets/cdfcc74f-b877-4495-a716-f0809c2457f7)
 ![image](https://github.com/user-attachments/assets/c23449b0-eb19-4955-8c8c-d3816044ba56)
 ![image](https://github.com/user-attachments/assets/308b24fe-98f4-477e-ad99-d7b91d8977e8)
@@ -69,7 +70,7 @@
 
 ---
 
-**Prompt7**：基于“好问题”特征，并以**学术顶刊**为标杆挑选问题
+## **Prompt7**：基于“好问题”特征，并以**学术顶刊**为标杆挑选问题
 ![image](https://github.com/user-attachments/assets/9eae5437-dc6d-456c-aeab-5f937cd84e55)
 ![image](https://github.com/user-attachments/assets/93412ceb-eedb-4979-8183-dae8558bcb9e)
 ![image](https://github.com/user-attachments/assets/ead70a1b-ad63-4bc7-8e3d-52c736260a9a)
